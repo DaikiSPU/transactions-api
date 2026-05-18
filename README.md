@@ -88,10 +88,10 @@ I also need to check logs carefully when something goes wrong. Logs help find th
 
 ![GET transactions by name](images/get_transactions_name.png)
 
-### GET /transactions?date=2026-05-18
+### GET /transactions?date=2026-05-15
 
 ![GET transactions by date](images/get_transactions_date.png)
 
-### GET /transactions?startDate=2026-03-01&endDate=2026-05-18
+### GET /transactions?startDate=2026-04-16&endDate=2026-04-18
 
 ![GET transactions by start and end date](images/get_transactions_start_end.png)
